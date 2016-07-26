@@ -3,4 +3,4 @@ Mostly Done
 
 A daily To Do list manager for iOS
 
-Under construction...
+Blah blah blah
