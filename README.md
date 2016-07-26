@@ -1,6 +1,6 @@
 # Mostly Done
 
-Mostly Done is a straight-forward iOS app that manages your daily tasks.
+Mostly Done is a straight-forward daily task managing app for iOS.
 
 For anyone looking for an effective alternative to subscription-based and bloated apps.
 
