@@ -1,7 +1,6 @@
-# mostlydone.github.io
-Mostly Done
+# Mostly Done
 
-Mostly Done is a straight-forward manager of your daily tasks.
+Mostly Done is a straight-forward iOS app that manages your daily tasks.
 
 For anyone looking for an effective alternative to subscription-based and bloated apps.
 
@@ -14,4 +13,4 @@ Mostly Done is fast, designed for quick navigation and input of tasks.
 - Edit the order of a day's tasks.
 - All undone tasks are automatically moved to the current day.
 
-We hope you enjoy using Mostly Done. If you have any feedback then we'd love to hear from you! Email us at: support@mostlydoneapp.com.
+We hope you enjoy using Mostly Done. If you have any feedback then we'd love to hear from you! Please visit mostlydoneapp.com and send us a note.
