@@ -13,4 +13,4 @@ Mostly Done is fast, designed for quick navigation and input of tasks.
 - Edit the order of a day's tasks.
 - All undone tasks are automatically moved to the current day.
 
-We hope you enjoy using Mostly Done. If you have any feedback then we'd love to hear from you! Please visit mostlydoneapp.com and send us a note.
+We hope you enjoy using Mostly Done. If you have any feedback then we'd love to hear from you! Please visit www.mostlydoneapp.com and send us a note.
