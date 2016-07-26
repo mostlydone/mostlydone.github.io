@@ -50,15 +50,10 @@ ul.posts li {
     list-style: none;
 }
 
-img {
-    width: 76px;
-    height: 76px;
-}
-
 .icon_and_heading img {
   float: left;
-  width: 167px;
-  height: 167px;
+  width: 76px;
+  height: 76px;
 }
 
 .icon_and_heading h1 {
