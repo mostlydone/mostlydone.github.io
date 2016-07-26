@@ -48,3 +48,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.icon_and_heading img {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.icon_and_heading h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
